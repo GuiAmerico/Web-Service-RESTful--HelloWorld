@@ -1,5 +1,5 @@
 # Construindo um Web Service RESTful
-Este guia orienta você no processo de criação de um serviço web RESTful “Hello, World” com Spring.
+Este guia orienta você no processo de criação de um serviço web RESTful “Hello, World” com Spring. ( [LINK DO GUIA](https://spring.io/guides/gs/rest-service/) )
 ### O que você vai construir:
 
 Você construirá um serviço que aceitará solicitações HTTP GET em ```http://localhost:8080/greeting.```
